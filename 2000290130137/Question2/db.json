@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop 13",
+      "price": 1244,
+      "rating": 4.5,
+      "discount": 45,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 2,
+      "productName": "Laptop 14",
+      "price": 1349,
+      "rating": 4.7,
+      "discount": 50,
+      "availability": "in-stock"
+    },
+    {
+      "id": 3,
+      "productName": "Laptop 15",
+      "price": 1544,
+      "rating": 4.3,
+      "discount": 40,
+      "availability": "limited-stock"
+    },
+    {
+      "id": 4,
+      "productName": "Laptop 16",
+      "price": 1649,
+      "rating": 4.8,
+      "discount": 35,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 5,
+      "productName": "Laptop 17",
+      "price": 1744,
+      "rating": 4.2,
+      "discount": 30,
+      "availability": "in-stock"
+    },
+    {
+      "id": 6,
+      "productName": "Laptop 18",
+      "price": 1849,
+      "rating": 4.6,
+      "discount": 25,
+      "availability": "limited-stock"
+    },
+    {
+      "id": 7,
+      "productName": "Laptop 19",
+      "price": 1944,
+      "rating": 4.1,
+      "discount": 20,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 8,
+      "productName": "Laptop 20",
+      "price": 2049,
+      "rating": 4.9,
+      "discount": 15,
+      "availability": "in-stock"
+    },
+    {
+      "id": 9,
+      "productName": "Laptop 21",
+      "price": 2144,
+      "rating": 4.4,
+      "discount": 10,
+      "availability": "limited-stock"
+    },
+    {
+      "id": 10,
+      "productName": "Laptop 22",
+      "price": 2249,
+      "rating": 4.0,
+      "discount": 5,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 11,
+      "productName": "Laptop 23",
+      "price": 2344,
+      "rating": 3.9,
+      "discount": 0,
+      "availability": "in-stock"
+    },
+    {
+      "id": 12,
+      "productName": "Laptop 24",
+      "price": 2449,
+      "rating": 4.5,
+      "discount": 50,
+      "availability": "limited-stock"
+    },
+    {
+      "id": 13,
+      "productName": "Laptop 25",
+      "price": 2544,
+      "rating": 4.7,
+      "discount": 45,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 14,
+      "productName": "Laptop 26",
+      "price": 2649,
+      "rating": 4.8,
+      "discount": 40,
+      "availability": "in-stock"
+    },
+    {
+      "id": 15,
+      "productName": "Laptop 27",
+      "price": 2744,
+      "rating": 4.2,
+      "discount": 35,
+      "availability": "limited-stock"
+    },
+    {
+      "id": 16,
+      "productName": "Laptop 28",
+      "price": 2849,
+      "rating": 4.3,
+      "discount": 30,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 17,
+      "productName": "Laptop 29",
+      "price": 2944,
+      "rating": 4.6,
+      "discount": 25,
+      "availability": "in-stock"
+    },
+    {
+      "id": 18,
+      "productName": "Laptop 30",
+      "price": 3049,
+      "rating": 4.4,
+      "discount": 20,
+      "availability": "limited-stock"
+    },
+    {
+      "id": 19,
+      "productName": "Laptop 31",
+      "price": 3144,
+      "rating": 4.1,
+      "discount": 15,
+      "availability": "out-of-stock"
+    },
+    {
+      "id": 20,
+      "productName": "Laptop 32",
+      "price": 3249,
+      "rating": 4.9,
+      "discount": 10,
+      "availability": "in-stock"
+    }
+  ]
+}
